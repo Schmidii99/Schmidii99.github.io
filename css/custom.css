@@ -12,6 +12,9 @@
 .linkBox:nth-child(12) {animation-delay: 0.8s;}
 .linkBox:nth-child(14) {animation-delay: 1s;}
 
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
 
 /*-----------------------animations---------------------*/
 @keyframes animStar {
