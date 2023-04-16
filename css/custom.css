@@ -5,6 +5,10 @@
     opacity: 0;
 }
 
+.linkBox:hover {
+    scale: 1.15;
+}
+
 .linkBox:nth-child(4) {animation-delay: 0s;}
 .linkBox:nth-child(6) {animation-delay: 0.2s;}
 .linkBox:nth-child(8) {animation-delay: 0.4s;}
