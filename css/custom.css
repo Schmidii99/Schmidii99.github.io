@@ -1,3 +1,12 @@
+.button.button-gitea {
+    color: #000000;
+    background-color: #ffffff;
+  }
+  .button.button-gitea:hover,
+  .button.button-gitea:focus {
+    filter: brightness(90%);
+  }
+
 .linkBox {
     animation: flyup 1.5s;
     animation-fill-mode: forwards;
